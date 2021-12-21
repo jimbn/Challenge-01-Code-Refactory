@@ -75,6 +75,8 @@ p {
     margin-left: 20px;
 }
 
+/* .benefits begin */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -203,8 +205,8 @@ p {
     font-size: 36px;
 } */
 
-
-/* Footer Begins */
+/* .benefits Ends */
+/* .footer Begins */
 
 .footer {
     padding: 30px;
@@ -217,4 +219,4 @@ p {
     font-size: 20px;
 }
 
-/* Footer Ends */
+/* .footer Ends */
